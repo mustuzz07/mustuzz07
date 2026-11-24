@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Mustaqeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Support%20Engineer%20%7C%20Infrastructure%20%7C%20IHCL&descAlignY=60&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Network+Support+Engineer+%F0%9F%8C%90;Wi-Fi+%7C+LAN+%7C+VLAN+%7C+Switching;Active+Directory+%7C+GPO+%7C+Fiber+Links;Deployed+at+Gateway+Hotels+(IHCL)+%F0%9F%8F%A8;Keeping+hotels+connected+24%2F7+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Network+Support+Engineer;Wi-Fi+%7C+LAN+%7C+VLAN+%7C+Switching;Active+Directory+%7C+GPO+%7C+Fiber+Links;Deployed+on+IHCL+Projects;Keeping+IHCL+networks+connected+24%2F7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,39 +16,39 @@
 
 ---
 
-## ð¨âð» About Me
+## :man_technologist: About Me
 
 ```yaml
 name: Mohamed Mustaqeem
 role: Network Support Engineer
-company: Quess Corp  (deployed at Gateway Hotels â IHCL, Madikeri)
-previous: iBus Technologies â Taj & Gateway Hotels (IHCL projects)
-education: BCA â University of Mysore (2022â2025)
+company: Quess Corp (deployed on IHCL projects)
+previous: iBus Technologies (IHCL projects)
+education: BCA - University of Mysore (2022-2025)
 location: Karnataka, India
 languages: [English, Hindi, Kannada, Urdu]
-focus: [Networking, Troubleshooting, Windows Server/AD, Hospitality IT]
+focus: [Networking, Troubleshooting, Windows Server / AD]
 open_to: [Network roles, Learning, Collaboration]
 ```
 
-I keep hotel networks and systems running smoothly â from guest Wi-Fi to the front-desk PMS. I enjoy solving real production problems and learning new technologies in networking, security and automation.
+I keep IHCL project networks and systems running smoothly, from Wi-Fi and LAN to PMS and POS support. I enjoy solving real production problems and learning new technologies in networking, security and automation.
 
 ---
 
-## ð¨ What I Handle Day-to-Day at IHCL
+## :wrench: What I Handle Day-to-Day on IHCL Projects
 
 | Area | Details |
 |------|---------|
-| ð¶ **Wi-Fi & Wireless** | Access Point deployment, coverage and guest/staff SSID troubleshooting |
-| ð **LAN / VLAN / Switching** | VLAN configuration, switch port issues, network changes, device configuration |
-| ð§µ **Physical Layer** | Fiber links, patch panels, cabling and link testing |
-| ð¥ï¸ **Servers & Identity** | Active Directory, Group Policy (GPO), user/account support |
-| ð¨ **Hospitality Systems** | OPERA Cloud PMS, POS, IPTV support |
-| ð¨ï¸ **End-User Support** | Printers, RDP / AnyDesk remote support and on-site support |
-| ð« **Ticketing & Vendors** | ManageEngine tickets, ISP and vendor coordination |
+| :signal_strength: **Wi-Fi & Wireless** | Access Point deployment, coverage and guest/staff SSID troubleshooting |
+| :globe_with_meridians: **LAN / VLAN / Switching** | VLAN configuration, switch port issues, network changes, device configuration |
+| :thread: **Physical Layer** | Fiber links, patch panels, cabling and link testing |
+| :desktop_computer: **Servers & Identity** | Active Directory, Group Policy (GPO), user/account support |
+| :office: **IHCL Applications** | OPERA Cloud PMS, POS, IPTV support |
+| :printer: **End-User Support** | Printers, RDP / AnyDesk remote support and on-site support |
+| :ticket: **Tickets & Vendors** | ManageEngine tickets, ISP and vendor coordination |
 
 ---
 
-## ð ï¸ Tech Stack & Skills
+## :hammer_and_wrench: Tech Stack & Skills
 
 <div align="center">
 
@@ -83,51 +83,49 @@ I keep hotel networks and systems running smoothly â from guest Wi-Fi to th
 
 ---
 
-## ð Featured Projects
+## :rocket: Featured Projects
 
-### â Real-Time Hand Gesture Recognition System
-> Built during my internship at **Mindsetcraft Labs, Mysore** (Feb â Apr 2025)
+### :raised_hand: Real-Time Hand Gesture Recognition System
+> Built during my internship at **Mindsetcraft Labs, Mysore** (Feb - Apr 2025)
 
 Detects and recognizes hand gestures live from a webcam feed.
-**Tech:** `Python` Â· `OpenCV` Â· `MediaPipe`
+**Tech:** `Python` | `OpenCV` | `MediaPipe`
 
-ð [View Repository](https://github.com/mustuzz07/hand-gesture-recognition)
+:point_right: [View Repository](https://github.com/mustuzz07/hand-gesture-recognition)
 
-### ð Personal Portfolio Website
+### :globe_with_meridians: Personal Portfolio Website
 > Multi-theme, animated portfolio with project showcase, experience and certificates.
 
-**Tech:** `HTML` Â· `CSS` Â· `JavaScript` Â· hosted on `Netlify`
+**Tech:** `HTML` | `CSS` | `JavaScript` | hosted on `Netlify`
 
-ð [Live Site](https://mustuzzz.in) Â· [Source](https://github.com/mustuzz07/portfolio)
-
-<!-- Add more projects here. Ideas: Network troubleshooting playbook, VLAN planning templates, Python subnet calculator -->
+:point_right: [Live Site](https://mustuzzz.in) | [Source](https://github.com/mustuzz07/portfolio)
 
 ---
 
-## ð Certifications
+## :scroll: Certifications
 
 <div align="center">
 
 | Issuer | Certificate | Year |
 |:------:|-------------|:----:|
-| <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/> | CompTIA A+ Core | â |
-| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> | Cloud Practitioner Essentials | 2025 |
-| <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> | Networking Basics Â· Intro to IoT Â· Intro to Cybersecurity | 2025 |
-| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> | Network Security Â· Network Troubleshooting | 2026 |
-| <img src="https://img.shields.io/badge/Mindsetcraft-2C5364?style=flat-square"/> | AI & Deep Learning | 2025 |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | CompTIA A+ Core | - |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Cloud Practitioner Essentials | 2025 |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Networking Basics, Intro to IoT, Intro to Cybersecurity | 2025 |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | Network Security, Network Troubleshooting | 2026 |
+| ![Mindsetcraft](https://img.shields.io/badge/Mindsetcraft-2C5364?style=flat-square) | AI & Deep Learning | 2025 |
 
 </div>
 
 ---
 
-## ð Education
+## :mortar_board: Education
 
-- ð **BCA** â NDRK First Grade College, Hassan (University of Mysore) Â· 2022 â 2025
-- ð **PUC (PCMCS)** â Hoysaleshwara PU College, Arsikere Â· 2020 â 2022
+- **BCA** - NDRK First Grade College, Hassan (University of Mysore), 2022 - 2025
+- **PUC (PCMCS)** - Hoysaleshwara PU College, Arsikere, 2020 - 2022
 
 ---
 
-## ð GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
@@ -140,33 +138,17 @@ Detects and recognizes hand gestures live from a webcam feed.
 
 ---
 
-## ð¤ Let's Connect
+## :handshake: Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedmustaqeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmustaqeem)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustuzzz.in)
 
 <br/>
 
-*"A network is only noticed when it fails â my job is to make sure nobody notices."* ð
+*A network is only noticed when it fails. My job is to make sure nobody notices.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
-
-
-<!--
-**mustuzz07/mustuzz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
